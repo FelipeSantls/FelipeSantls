@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FelipeSantls/FelipeSantls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Felipe Nascimento
+### 🚀 Desenvolvedor Front-End em formação
 
-Here are some ideas to get you started:
+*Transformando ideias em soluções digitais.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## ⚡ Sobre mim
+
+💻 Apaixonado por tecnologia e programação.  
+🎓 Estudante, com foco em desenvolvimento web.  
+🚀 Experiência prática com sites e sistemas para negócios.  
+🧠 Criativo, proativo e sempre em busca de evolução.  
+🎯 Objetivo: construir uma carreira em Engenharia de Software.
+
+## 🛠️ Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+[![Felipe Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSantls)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+
+**✨ Aprendendo, criando e evoluindo a cada projeto.**
+
+</div>
